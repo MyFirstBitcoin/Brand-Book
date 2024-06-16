@@ -4,7 +4,7 @@ This is where you will find Mi Primer Bitcoin’s Media Kit.
 
 ## 📂 In this Media Kit, you will find:
 
-### 📝 [The MPB Brand Book:](https://drive.google.com/drive/folders/1CDYjm9zN7Op-SygAqI4MjrZIYEjuB89y)
+### 📝 [The MPB Brand Book:](https://github.com/MyFirstBitcoin/Brand-Book/blob/main/My%20First%20Bitcoin%20-%20Brand%20Book.pdf)
 - Brand logo
 - Color Palette
 - Typography
@@ -12,9 +12,9 @@ This is where you will find Mi Primer Bitcoin’s Media Kit.
 - Certified Instructor badge
 - Node Network badges
 
-### 🖼️ MPB Main Logo Files
-### 🏅 Certified Instructor Badge Files
-### 🏷️ Node Network Badge Files
+### 🖼️ [MPB Main Logo Files](https://github.com/MyFirstBitcoin/Brand-Book/tree/main/Logos)
+### 🏅 [Certified Instructor Badge Files](https://github.com/MyFirstBitcoin/Brand-Book/tree/main/Badges/Certified%20Instructor)
+### 🏷️ [Node Network Badge Files](https://github.com/MyFirstBitcoin/Brand-Book/tree/main/Badges/Nodes)
 
 ## 📋 Guidelines for the Use of the MPB Logo and Badges:
 
