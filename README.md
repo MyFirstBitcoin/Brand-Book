@@ -4,7 +4,7 @@ This is where you will find Mi Primer Bitcoin’s Media Kit.
 
 ## 📂 In this Media Kit, you will find:
 
-### 📝 The MPB Brand Book:
+### 📝 [The MPB Brand Book:](https://drive.google.com/drive/folders/1CDYjm9zN7Op-SygAqI4MjrZIYEjuB89y)
 - Brand logo
 - Color Palette
 - Typography
