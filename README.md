@@ -87,19 +87,19 @@ MPB must authorize any use of the brand, resources, or logo.
 
 **Light Node:**
 - **Appropriate Use:**
-  - A Light Node in Africa uses the "Node Network - Light Node" MPB badge on its website and social media profiles to indicate its affiliation with MPB. They also use the MPB main logo on educational materials distributed during local Bitcoin workshops.
+  - 🌍 A Light Node in Africa uses the "Node Network - Light Node" MPB badge on its website and social media profiles to indicate its affiliation with MPB. They also use the MPB main logo on educational materials distributed during local Bitcoin workshops.
 - **Inappropriate Use:**
-  - A Light Node in Europe uses the MPB main logo to launch a fundraising campaign. They also name themselves "MPB Europe" instead of creating a unique name.
+  - 🚫 A Light Node in Europe uses the MPB main logo to launch a fundraising campaign. They also name themselves "MPB Europe" instead of creating a unique name.
 
 **Full Node:**
 - **Appropriate Use:**
-  - A Full Node in Asia uses the MPB main logo on a crowdfunding platform to raise money. They also name themselves "MPB Asia," confusing with MPB International/El Salvador.
+  - 🌏 A Full Node in Asia uses the MPB main logo on a crowdfunding platform to raise money. They also name themselves "MPB Asia," confusing with MPB International/El Salvador.
 - **Inappropriate Use:**
-  - Using the MPB main logo for fundraising.
-  - Referring to oneself as MPB [Region Name], as all nodes must have unique names to distinguish themselves from MPB International/El Salvador.
+  - 🚫 Using the MPB main logo for fundraising.
+  - 🚫 Referring to oneself as MPB [Region Name], as all nodes must have unique names to distinguish themselves from MPB International/El Salvador.
 
 **Certified Instructor:**
 - **Appropriate Use:**
-  - A Certified Instructor in North America uses the “Certified Educators” badge on their LinkedIn profile and business cards to show their qualifications.
+  - 🌎 A Certified Instructor in North America uses the “Certified Educators” badge on their LinkedIn profile and business cards to show their qualifications.
 - **Inappropriate Use:**
-  - A Certified Instructor in Australia uses the MPB main logo to promote a personal venture unrelated to MPB's mission.
+  - 🚫 A Certified Instructor in Australia uses the MPB main logo to promote a personal venture unrelated to MPB's mission.
