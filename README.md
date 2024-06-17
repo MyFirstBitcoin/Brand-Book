@@ -18,7 +18,7 @@ This is where you will find Mi Primer Bitcoin’s Media Kit.
 
 ## 📋 Guidelines for the Use of the MPB Logo and Badges:
 
-### 3. General Use of the MPB Brand
+### 1. General Use of the MPB Brand
 MPB grants a non-exclusive license for the duration of the relationship, or until we suspend or terminate your access to the MPB resources, whichever is sooner, to use the MPB IP, solely as necessary to allow you to be part of the MPB for non-commercial personal or internal business use, per the MOU.
 
 **Approved general use by all entitled individuals or entities:**
@@ -32,7 +32,7 @@ MPB grants a non-exclusive license for the duration of the relationship, or unti
 
 MPB must authorize any use of the brand, resources, or logo.
 
-### 4. Brand Usage Guidelines
+### 2. Brand Usage Guidelines
 
 **Approved Use:**
 
@@ -66,7 +66,7 @@ MPB must authorize any use of the brand, resources, or logo.
 
 MPB must authorize any use of the brand, resources, or logo.
 
-### 5. Application and Approval Process
+### 3. Application and Approval Process
 
 **Light Nodes and Full Nodes:**
 - 📝 Nodes must apply to be approved by submitting an application.
@@ -79,11 +79,11 @@ MPB must authorize any use of the brand, resources, or logo.
 - 📝 Upon completion of the training program, applicants may take the Certified Instructor Exam.
 - 🏆 Upon passing the Certified Instructor exam, the applicant is awarded the title “MPB Certified Instructor” and is permitted to use the MPB Brand as specified in this document.
 
-### 6. Consequences of Unauthorized Use
+### 4. Consequences of Unauthorized Use
 - ❌ Unauthorized use of the MPB brand will result in a permanent ban from the network.
 - ⚖️ Legal action may be taken if unauthorized use causes harm to MPB or its reputation.
 
-### 7. Examples of Brand Use by “Approved Network Participants”
+### 5. Examples of Brand Use by “Approved Network Participants”
 
 **Light Node:**
 - **Appropriate Use:**
