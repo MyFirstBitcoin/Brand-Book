@@ -93,7 +93,7 @@ MPB must authorize any use of the brand, resources, or logo.
 
 **Full Node:**
 - **Appropriate Use:**
-  - 🌏 A Full Node in Asia uses the MPB main logo on a crowdfunding platform to raise money. They also name themselves "MPB Asia," confusing with MPB International/El Salvador.
+  - 🌏 A Full Node in Asia uses the "Node Network - Full Node" MPB badge on its website and social media profiles to indicate its affiliation with MPB. They also use the MPB main logo on educational materials distributed during local Bitcoin workshops.
 - **Inappropriate Use:**
   - 🚫 Using the MPB main logo for fundraising.
   - 🚫 Referring to oneself as MPB [Region Name], as all nodes must have unique names to distinguish themselves from MPB International/El Salvador.
