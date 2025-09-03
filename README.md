@@ -1,6 +1,6 @@
 # 📚 My First Bitcoin Media Kit
 
-This is where you will find Mi Primer Bitcoin’s Media Kit.
+This is where you will find My First Bitcoin’s Media Kit.
 
 ## 📂 In this Media Kit, you will find:
 
