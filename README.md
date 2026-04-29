@@ -1,10 +1,6 @@
-# My First Bitcoin – Asset Delivery Guide
-
-This explains the structure of this GitHub repository and helps you navigate all provided brand assets.
+# My First Bitcoin – Brand Assets
 
 Each main folder contains clearly organized materials for easy access and usage.
-
----
 
 ## 📁 Folder Structure
 
@@ -28,15 +24,11 @@ Each main folder contains clearly organized materials for easy access and usage.
   - Outro
   - Watermark versions
 
----
-
 ### 2. Profile Pictures
 
 This folder contains five profile picture variations for different digital platforms.
 
 These versions ensure flexibility while maintaining brand consistency.
-
----
 
 ### 3. Banners
 
@@ -48,8 +40,6 @@ These versions ensure flexibility while maintaining brand consistency.
 
 - **YouTube Banner**  
   Optimized for YouTube channel display.
-
----
 
 ### 4. Brand Book
 
